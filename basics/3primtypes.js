@@ -1,0 +1,11 @@
+let name ="shiva";
+let age =24;
+let marritalstatus=false;
+let reserved;
+let IsHeHasLover = null;
+console.log(name, age,marritalstatus, reserved, IsHeHasLover);
+console.log(typeof name);
+console.log(typeof age);
+console.log(typeof marritalstatus);
+console.log(typeof reserved);
+console.log(typeof IsHeHasLover);
