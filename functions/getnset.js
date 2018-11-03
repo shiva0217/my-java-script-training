@@ -11,5 +11,5 @@ const person ={
         this.lastname = parts[1];
     }
 }
-person.fullname = "sravan gannarapu";
+person.fullname = "narendra modi";
 console.log(person.fullname);
